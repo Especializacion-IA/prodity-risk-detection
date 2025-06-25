@@ -1,0 +1,19 @@
+[project]
+nombre_proyecto = "prodity-risk-detection"
+version = "0.1.0"
+description = ""
+authors = [{ nombre="Mabel Rincon", email="soymabel.rincon@gmail.com" }]
+requires-python = ">=3.8"
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+python_files = ["test_*.py"]
+
+[tool.flake8]
+max-line-length = 88
