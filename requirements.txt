@@ -1,0 +1,6 @@
+ultralytics==8.3.156
+opencv-python
+matplotlib
+pillow
+fastapi==0.115.14
+uvicorn==0.35.0
