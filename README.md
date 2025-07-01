@@ -5,7 +5,7 @@ Este repositorio contiene la API de detección de riesgos laborales basada en in
 La API se construye con FastAPI y está diseñada para ser desplegada como un contenedor Docker.
 
 ## Estructura del Proyecto
-
+```
 prodity-risk-detection/
 ├── api/                  # Lógica de la API FastAPI
 │   ├── main.py           # Punto de entrada de la aplicación
@@ -18,7 +18,7 @@ prodity-risk-detection/
 ├── requirements.txt      # Dependencias de Python
 ├── README.md             # Este archivo
 └── .gitignore            # Archivos y directorios a ignorar por Git
-
+```
 
 ## Clases Detectadas
 
@@ -42,6 +42,7 @@ El modelo ha sido entrenado para detectar las siguientes 4 clases:
 ```bash
 git clone [https://github.com/Especializacion-IA/prodity-risk-detection.git](https://github.com/Especializacion-IA/prodity-risk-detection.git)
 cd prodity-risk-detection
-
+```
 Proyecto creado con ❤️ por el equipo de especialización en IA de la promoción Techcamp de Factoría F5
-[Naudelyn Lucena ](https://github.com/NaudelynLucena), [Eva G. Muñoz](https://github.com/Emagmunioz),  [Grigory Pereira](https://github.com/Grigory-Vladimiro), [Jesús Enjamio](https://github.com/JesusEnjamio), [Mabel Rincón](https://github.com/MabelRincon)
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub icon"> [Naudelyn Lucena](https://github.com/NaudelynLucena), <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub icon"> [Eva G. Muñoz](https://github.com/Emagmunioz), <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub icon"> [Grigory Pereira](https://github.com/Grigory-Vladimiro), <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub icon"> [Jesús Enjamio](https://github.com/JesusEnjamio), <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub icon"> [Mabel Rincón](https://github.com/MabelRincon)
