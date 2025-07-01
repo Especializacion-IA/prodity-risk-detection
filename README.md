@@ -40,7 +40,7 @@ El modelo ha sido entrenado para detectar las siguientes 4 clases:
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone [https://github.com/Especializacion-IA/prodity-risk-detection.git](https://github.com/Especializacion-IA/prodity-risk-detection.git)
+git clone https://github.com/Especializacion-IA/prodity-risk-detection.git
 cd prodity-risk-detection
 ```
 Proyecto creado con ❤️ por el equipo de especialización en IA de la promoción Techcamp de Factoría F5
